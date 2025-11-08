@@ -15,7 +15,7 @@
 
 ## 🖼️ Preview  
 ![Portfolio Sampada Preview](./assets/preview.png)  
-*(Place a screenshot of the portfolio in `assets/preview.png` or adjust path as needed.)*
+
 
 ---
 
