@@ -69,3 +69,8 @@ Contributions are welcome!
 	•	Create a branch (git checkout -b feature/YourFeature)
 	•	Commit your changes (git commit -m "Add awesome feature")
 	•	Push and open a Pull Request
+---
+📜 License
+
+This project is licensed under the MIT License.
+See the LICENSE￼ file for details.
