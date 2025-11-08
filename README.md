@@ -61,3 +61,11 @@ Portfolio-Sampada/
 	•	Replace or enhance particle background with canvas animations
 	•	Add contact form integration (EmailJS or serverless)
 	•	Optimize animations for mobile performance
+---
+🤝 Contributing
+
+Contributions are welcome!
+	•	Fork the repo
+	•	Create a branch (git checkout -b feature/YourFeature)
+	•	Commit your changes (git commit -m "Add awesome feature")
+	•	Push and open a Pull Request
