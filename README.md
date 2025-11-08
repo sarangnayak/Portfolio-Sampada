@@ -54,3 +54,10 @@ Portfolio-Sampada/
    2.	Open index.html in your browser (or use a local server).
 	3.	Customize: change content, images, animations, or add new sections.
 	4.	Deploy easily via GitHub Pages as already done.
+---
+💡 Customization Ideas
+	•	Add dark/light theme toggle
+	•	Add filterable gallery of projects with hover animations
+	•	Replace or enhance particle background with canvas animations
+	•	Add contact form integration (EmailJS or serverless)
+	•	Optimize animations for mobile performance
