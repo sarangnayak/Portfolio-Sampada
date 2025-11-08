@@ -43,3 +43,14 @@ Portfolio-Sampada/
 └── assets/             # Images, icons, preview screenshot
 
 ```
+---
+
+## 🚀 Getting Started  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/sarangnayak/Portfolio-Sampada.git
+   cd Portfolio-Sampada
+   ```
+   2.	Open index.html in your browser (or use a local server).
+	3.	Customize: change content, images, animations, or add new sections.
+	4.	Deploy easily via GitHub Pages as already done.
