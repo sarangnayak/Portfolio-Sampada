@@ -34,3 +34,12 @@
 ---
 
 ## 📂 Folder Structure  
+```
+Portfolio-Sampada/
+│
+├── index.html         # Main markup file
+├── style.css          # Styling & animations
+├── script.js          # JS for particles & scroll animations
+└── assets/             # Images, icons, preview screenshot
+
+```
