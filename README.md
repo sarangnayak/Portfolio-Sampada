@@ -14,7 +14,7 @@
 ---
 
 ## 🖼️ Preview  
-![Portfolio Sampada Preview](./assets/preview.png)  
+![Portfolio Sampada Preview](./Image1png)  
 
 
 ---
