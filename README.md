@@ -42,6 +42,7 @@ Portfolio-Sampada/
 ├── script.js          # JS for particles & scroll animations
 └── assets/             # Images, icons, preview screenshot
 
+
 ```
 ---
 
