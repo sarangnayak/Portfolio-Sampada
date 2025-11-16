@@ -20,7 +20,7 @@
 ---
 
 ## ✨ About  
-**Portfolio Sampada** is a sleek, animated single-page portfolio built for an interior designer. It features a dynamic particle-hero section, smooth scroll-triggered animations, and modern design focused on showcasing creative work in an elegant way.  [oai_citation:0‡GitHub](https://github.com/sarangnayak/Portfolio-Sampada?utm_source=chatgpt.com)
+**Portfolio Sampada** is a sleek, animated single-page portfolio built for an interior designer. It features a dynamic particle-hero section, smooth scroll-triggered animations, and modern design focused on showcasing creative work in an elegant way.
 
 ---
 
